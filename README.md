@@ -68,8 +68,8 @@ I work across frontend and backend systems and enjoy solving problems that requi
 ---
 
 ## 🌐 Connect With Me
-🔗 **LinkedIn:** https://www.linkedin.com/in/vikas-kumar-2304a92a3  
-📧 **Email:** vikas12252@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/vikas-kumar-7349483a7/  
+📧 **Email:** vikas12257@gmail.com  
 
 ---
 
