@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m a Software Developer with experience building production-grade web applications across frontend and backend systems.
 
 My work focuses on:
