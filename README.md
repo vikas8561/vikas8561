@@ -1,5 +1,23 @@
 # 💫 About Me:
-Hi, I'm a passionate Full Stack Developer specializing in the MERN Stack (MongoDB, Express.js, React.js, Node.js). I enjoy building robust, scalable web applications and love turning complex problems into simple, beautiful, and intuitive solutions.
+I’m a Software Developer with experience building production-grade web applications across frontend and backend systems.
+
+My work focuses on:
+
+- Designing scalable backend APIs
+- Building clean, performant user interfaces
+- Implementing role-based access, workflows, and state-driven systems
+
+I’ve worked on:
+
+- E-commerce platforms using Next.js, Node.js, and PostgreSQL
+- Assessment & LMS systems with approval workflows, versioning, and analytics
+- Full-stack applications using React, Angular, ASP.NET Core, and MongoDB
+
+I enjoy working on problems that require clear system design, clean code, and long-term maintainability, and I’m constantly learning by building real-world projects.
+
+Tech I work with:
+JavaScript, TypeScript, React, Next.js, Node.js, PostgreSQL, MongoDB, REST APIs
+(also familiar with Java, Spring Boot, Servlets, JDBC)
 
 
 ## 🌐 Socials:
