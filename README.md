@@ -107,15 +107,9 @@
 <div align="center">
 
 <img height="165" src="https://vercel-readme-stats-vikas.vercel.app/api?username=vikas8561&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FBBF24&icon_color=14B8A6&text_color=c9d1d9"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=vikas8561&theme=radical&hide_border=true&background=0D1117&ring=14B8A6&fire=FBBF24&currStreakLabel=FBBF24"/>
-
 <img src="https://vercel-readme-stats-vikas.vercel.app/api/top-langs/?username=vikas8561&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FBBF24&text_color=c9d1d9" height="165"/>
 
 <br/><br/>
-
-<img src="https://github-trophy-vikas.vercel.app/?username=vikas8561&theme=shadow_green&no-frame=true&row=1&margin-w=15&column=6"/>
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikas8561&theme=react-dark&hide_border=true&bg_color=0D1117&color=FBBF24&line=14B8A6&point=ffffff"/>
 
